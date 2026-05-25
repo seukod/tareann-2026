@@ -13,5 +13,6 @@ dependencies:
   - notebook
   - ipykernel
   - pip
+  - pytorch
   - pip:
     - plotly
